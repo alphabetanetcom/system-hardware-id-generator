@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: System Hardware ID Generator
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pavel
+    family-names: Izosimov
+    affiliation: Alpha Beta Network
+    orcid: 'https://orcid.org/0009-0004-7126-6743'
+    website: 'https://alphabetanet.com'
+repository-code: >-
+  https://github.com/alphabetanetcom/system-hardware-id-generator
+url: 'https://alphabetanet.com/'
+repository: >-
+  https://gitlab.com/alphabetanetcom/system-hardware-id-generator
+repository-artifact: >-
+  https://github.com/alphabetanetcom/system-hardware-id-generator/releases
+abstract: >-
+
+  The System Hardware ID Generator Script is a Python tool designed
+  to generate a unique Hardware ID (HWID) for the device it runs on.
+  The HWID is represented as an 18-digit integer, making it efficient
+  for storage in databases and indexing. This script can be used in 
+  various applications such as software licensing, device
+  authentication, and hardware inventory management.
+
+keywords:
+
+  - license management
+  - software licensing
+  - device authentication
+  - hardware id
+  - hardware identification
+  - hardware inventory management
+  - secure distribution
+  - python security
+  - intellectual property
+  - security tools
+  - code protection
+  - code sharing
+  - secure sharing
+  - secure code sharing
+  - secure file transfer
+  - python development
+  - intellectual property protection
+  - code security
+version: v1.1-beta.1
+date-released: '2024-11-19'
+license-url: 'https://github.com/alphabetanetcom/system-hardware-id-generator/blob/main/LICENSE.md'
