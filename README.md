@@ -1,5 +1,6 @@
 **System Hardware ID Generator Script Documentation**
 
+[![DOI](https://zenodo.org/badge/890989091.svg)](https://doi.org/10.5281/zenodo.14187889)
 [![License](https://img.shields.io/badge/license-Custom-blue.svg)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 [![Code Protection](https://img.shields.io/badge/code-protection-green.svg)](README.md#key-features)
