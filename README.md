@@ -3,8 +3,11 @@
 [![DOI](https://zenodo.org/badge/890989091.svg)](https://doi.org/10.5281/zenodo.14187889)
 [![License](https://img.shields.io/badge/license-Custom-blue.svg)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
-[![Code Protection](https://img.shields.io/badge/code-protection-green.svg)](README.md#key-features)
-[![Secure Sharing](https://img.shields.io/badge/secure-sharing-green.svg)](README.md#key-features)
+[![License Management](https://img.shields.io/badge/license-management-blue.svg)](README.md#6-applications-and-use-cases)
+[![Hardware ID](https://img.shields.io/badge/hardware-identification-blue.svg)](README.md#41-generating-hardware-id-hwid)
+[![Device Auth](https://img.shields.io/badge/device-authentication-green.svg)](README.md#6-applications-and-use-cases)
+[![Code Protection](https://img.shields.io/badge/code-protection-red.svg)](README.md#key-features)
+[![Secure Distribution](https://img.shields.io/badge/secure-distribution-green.svg)](README.md#7-recommendations-and-best-practices)
 [![Python Security](https://img.shields.io/badge/python-security-blue.svg)](README.md#security-and-best-practices)
 
 
