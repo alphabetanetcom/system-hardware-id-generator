@@ -46,6 +46,6 @@ keywords:
   - python development
   - intellectual property protection
   - code security
-version: v1.1-beta.1
+version: v1.1.1-beta.1
 date-released: '2024-11-19'
 license-url: 'https://github.com/alphabetanetcom/system-hardware-id-generator/blob/main/LICENSE.md'
